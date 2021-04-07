@@ -13,4 +13,4 @@ To include fuzzy matches 'best guess':
 
 #Can combine the above flags
 
-Outputs can be found in 'drug_matches.jsonl'
+Outputs can be found in 'drug_matches.txt'
